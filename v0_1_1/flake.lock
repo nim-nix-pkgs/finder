@@ -103,11 +103,11 @@
         "zip-master": "zip-master"
       },
       "locked": {
-        "lastModified": 1647059654,
-        "narHash": "sha256-k0OJ/DKqd0t1QcmiC1EpWZa5H7I1NdACMkSTT46ISAk=",
+        "lastModified": 1647111433,
+        "narHash": "sha256-t8cpACXIdeFhOznxM6ZIBx4Gx/O54MUI6Uk8dF+Crlo=",
         "owner": "nim-nix-pkgs",
         "repo": "zip",
-        "rev": "d99637a86809434ca2a3b2272f534d9f7c7ae418",
+        "rev": "37eb898d05da4e54882b096e2699def813d2f40b",
         "type": "github"
       },
       "original": {
@@ -130,13 +130,20 @@
         "src-zip-0_3_1": "src-zip-0_3_1"
       },
       "locked": {
-        "narHash": "sha256-+UbrhsAzqGkbPCYS3wEu0+MK2uxQrZDkYPCgDnYpF0U=",
-        "path": "./0_3_1",
-        "type": "path"
+        "dir": "0_3_1",
+        "lastModified": 1647111433,
+        "narHash": "sha256-t8cpACXIdeFhOznxM6ZIBx4Gx/O54MUI6Uk8dF+Crlo=",
+        "owner": "nim-nix-pkgs",
+        "repo": "zip",
+        "rev": "37eb898d05da4e54882b096e2699def813d2f40b",
+        "type": "github"
       },
       "original": {
-        "path": "./0_3_1",
-        "type": "path"
+        "dir": "0_3_1",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "zip",
+        "type": "github"
       }
     },
     "zip-master": {
@@ -152,13 +159,20 @@
         "src-zip-master": "src-zip-master"
       },
       "locked": {
-        "narHash": "sha256-srK0IR+TuicCqBDVzDZ/p4Jup0NY62qzvTf+ZoDUr9w=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647111433,
+        "narHash": "sha256-t8cpACXIdeFhOznxM6ZIBx4Gx/O54MUI6Uk8dF+Crlo=",
+        "owner": "nim-nix-pkgs",
+        "repo": "zip",
+        "rev": "37eb898d05da4e54882b096e2699def813d2f40b",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "zip",
+        "type": "github"
       }
     }
   },
