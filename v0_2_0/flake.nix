@@ -11,6 +11,7 @@
   inputs.src-finder-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-finder-v0_2_0.owner = "bung87";
   inputs.src-finder-v0_2_0.repo  = "finder";
+  inputs.src-finder-v0_2_0.dir   = "";
   inputs.src-finder-v0_2_0.type  = "github";
   
   inputs."zippy".owner = "nim-nix-pkgs";
