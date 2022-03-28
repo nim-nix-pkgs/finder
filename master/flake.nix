@@ -11,7 +11,6 @@
   inputs.src-finder-master.ref   = "refs/heads/master";
   inputs.src-finder-master.owner = "bung87";
   inputs.src-finder-master.repo  = "finder";
-  inputs.src-finder-master.dir   = "";
   inputs.src-finder-master.type  = "github";
   
   inputs."zippy".owner = "nim-nix-pkgs";
